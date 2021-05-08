@@ -32,9 +32,7 @@ Si comparas las variables, ¿todas están en rangos similares? ¿Crees que esto 
 Todas las variables numéricas están en rangos similares salvo “Bank”. El efecto que se puede tener es que el ritmo de vida de un lugar sea descrito un poco más lento de lo que realmente es, ya que “Bank” mide el tiempo; por lo que, si tiene un rango con un máximo mayor que el del resto, significa que el ritmo es más lento.  
 ¿Puedes encontrar grupos que se parezcan? ¿Qué grupos son estos?  
 Si “grupos” se refiere a filas, es posible encontrar grupos que se parezcan ya que todos son muy similares. Unos ejemplos son Rochester y Kansas City, y Chicago y Younstown. En cambio, si estos se refieren a columnas, las similares son “Walk”, “Talk” y “Heart”.  
-Silvana Dorita Ruiz Olivarría  
-A01252346  
-### K-means  
+
 ## MANUAL de Actividad K-means:   
 Descargamos la el código de github y descomprimimos la carpeta .zip   
 Ingresar los archivos a nuestra carpeta de nuestra preferencia.  
